@@ -1,4 +1,4 @@
-public class Revista extends Livro implements Acoes{
+public class Revista extends Livro{
 
     private int edicao;
 
